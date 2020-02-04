@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af72d591-90d6-422c-b197-d461d36f0e9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Estruturas Condicionais/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas Condicionais/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primeiros Comandos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/.idea/Estruturas Condicionais.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/.idea/Estruturas Condicionais.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/D2-INSS Elifi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/D2-INSS Elifi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/D2-INSS If Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/D2-INSS If Else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/D3-Calculadora Elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/D3-Calculadora Elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/Ex1-Par ou Impar IF.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/Ex1-Par ou Impar IF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/Ex2-Par ou Impar IF e Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/Ex2-Par ou Impar IF e Else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/Ex4-IMC.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/Extra-IMC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/Ex5-Clima And.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/Ex4-Clima And.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estruturas Condicionais/Ex6-Noticia OR.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Estruturas Condicionais/Ex5-Noticia OR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Laços de Repetição.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Laços de Repetição.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1-Tabuada For.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1-Tabuada For.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2-Contagem letras for.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2-Contagem letras for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3-Caixa Registradora Break.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-Caixa Registradora Break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex3-Tabuada While.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex3-Tabuada While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex4-Média While.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex4-Média While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex5-Média While True.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex5-Média While True.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primeiros Comandos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Primeiros Comandos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primeiros Comandos/Desafio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Primeiros Comandos/Desafio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primeiros Comandos/Desafio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Primeiros Comandos/Desafio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primeiros Comandos/Desafio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Primeiros Comandos/Desafio 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primeiros Comandos/Ex2-Variaveis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Primeiros Comandos/Ex2-Variaveis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primeiros Comandos/Ex3-Entrada de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Primeiros Comandos/Ex3-Entrada de dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primeiros Comandos/Ex4-Convertendo tipos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Primeiros Comandos/Ex4-Convertendo tipos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4 Exemplo BD/CRUD POO/.idea/CRUD POO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4 Exemplo BD/CRUD POO/.idea/CRUD POO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4 Exemplo BD/CRUD POO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4 Exemplo BD/CRUD POO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4 Exemplo BD/CRUD POO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4 Exemplo BD/CRUD POO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/tela1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/tela1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/tela2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Manipulando Telas/tela2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Python Tkinter - Parte 2/.idea/Python Tkinter - Parte 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Python Tkinter - Parte 2/.idea/Python Tkinter - Parte 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Python Tkinter - Parte 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Python Tkinter - Parte 2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Python Tkinter - Parte 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 Exemplos GUI/Inteface basica - Grid/Python Tkinter - Parte 2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1X6YXYdR2z2QGHSly4L8RcjqTWo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ETEC\Tecnico informática\2º Módulo\DS1\Exemplos\Laços de Repetição\" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.D3-Caixa Registradora Break">
+    <configuration name="D1-Tabuada For" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Laços de Repetição" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-Tabuada For.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D2-Contagem letras for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Laços de Repetição" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2-Contagem letras for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D3-Caixa Registradora Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Laços de Repetição" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3-Caixa Registradora Break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex1-For" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Laços de Repetição" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex1-For.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex2-For Contagem Regressiva" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Laços de Repetição" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex2-For Contagem Regressiva.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.D1-Tabuada For" />
+      <item itemvalue="Python.D2-Contagem letras for" />
+      <item itemvalue="Python.D3-Caixa Registradora Break" />
+      <item itemvalue="Python.Ex1-For" />
+      <item itemvalue="Python.Ex2-For Contagem Regressiva" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.D3-Caixa Registradora Break" />
+        <item itemvalue="Python.Ex2-For Contagem Regressiva" />
+        <item itemvalue="Python.Ex1-For" />
+        <item itemvalue="Python.D2-Contagem letras for" />
+        <item itemvalue="Python.D1-Tabuada For" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af72d591-90d6-422c-b197-d461d36f0e9f" name="Default Changelist" comment="" />
+      <created>1546921948990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546921948990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
